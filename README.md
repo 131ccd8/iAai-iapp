@@ -16,3 +16,35 @@
 
 ## 📦 安装
 
+
+## 📚 文档
+
+详细文档请访问：[文档网站链接](https://your-docs-site.com)
+
+| 章节 | 描述 |
+|------|------|
+| API参考 | 完整API文档 |
+| 指南 | 使用教程 |
+| 示例 | 代码示例集 |
+| 常见问题 | 问题解答 |
+
+## 🤝 贡献
+
+我们欢迎所有贡献！请阅读[贡献指南](CONTRIBUTING.md)开始参与。
+
+1. Fork项目
+2. 创建您的分支 (`git checkout -b feature/AmazingFeature`)
+3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
+4. 推送到分支 (`git push origin feature/AmazingFeature`)
+5. 打开Pull Request
+
+## 📜 许可证
+
+本项目采用 [MIT 许可证](LICENSE)
+
+---
+
+<p align="center">
+  <em>感谢使用 <项目名称>！如有任何问题，请</em>
+  <a href="https://github.com/yourname/yourrepo/issues">提交Issue</a>
+</p>

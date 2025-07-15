@@ -1,4 +1,4 @@
-<h1 align="center">iAai</h1>
+<h1 align="center">iAai-iapp</h1>
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Version](https://img.shields.io/badge/version-0.1.0-brightgreen)

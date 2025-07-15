@@ -1,5 +1,6 @@
-
-<img src="https://icdn.binmt.cc/2507/68766a4a1e394.png" align="center" style="border-radius: 50px">
+<div align="center">
+  <img src="https://icdn.binmt.cc/2507/68766a4a1e394.png" width="150" style="border-radius: 50%; border: 3px solid #0078d7; object-fit: cover;">
+</div>
 
 <h6 align="center>我就站在你面前，你看我几分像从前</h6>
 

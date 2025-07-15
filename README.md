@@ -16,6 +16,15 @@
 
 ## 📦 安装
 
+bash
+
+使用npm安装
+
+npm install your-library-name
+
+或使用yarn
+
+yarn add your-library-name
 
 ## 📚 文档
 

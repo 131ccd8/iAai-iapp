@@ -1,7 +1,5 @@
 <h1 align="center" style="margin-bottom: 10px">iAai-iapp</h1>
-
-
-> <h6 align="center" style="margin-bottom: 10px">我就现在你面前，你看我几分像从前</h6>
+<h6 align="center" style="margin-bottom: 10px">我就站在你面前，你看我几分像从前</h6>
 
 ## ✨ 特性
 

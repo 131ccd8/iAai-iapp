@@ -1,8 +1,6 @@
 <h1 align="center" style="margin-bottom: 10px">iAai-iapp</h1>
 
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![Version](https://img.shields.io/badge/version-0.1.0-brightgreen)
-![Build Status](https://img.shields.io/badge/build-passing-success)
+
 
 > 简洁有力的项目描述，用1-2句话说明这个库的核心价值
 

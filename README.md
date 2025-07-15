@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="margin-bottom: -10px;">
   <img src="https://icdn.binmt.cc/2507/68766a4a1e394.png" width="100px" style="border-radius: 50%; border: 3px solid #0078d7; object-fit: cover;">
 </div>
 

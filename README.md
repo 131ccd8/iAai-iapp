@@ -54,6 +54,6 @@ yarn add your-library-name
 ---
 
 <p align="center">
-  <em>感谢使用 <项目名称>！如有任何问题，请</em>
-  <a href="https://github.com/yourname/yourrepo/issues">提交Issue</a>
+  <em>感谢使用iAai！如有任何问题，请</em>
+  <a href="https://github.com/131ccd8/yourrepo/issues">提交Issue</a>
 </p>

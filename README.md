@@ -37,16 +37,6 @@ yarn add your-library-name
 | 示例 | 代码示例集 |
 | 常见问题 | 问题解答 |
 
-## 🤝 贡献
-
-我们欢迎所有贡献！请阅读[贡献指南](CONTRIBUTING.md)开始参与。
-
-1. Fork项目
-2. 创建您的分支 (`git checkout -b feature/AmazingFeature`)
-3. 提交更改 (`git commit -m 'Add some AmazingFeature'`)
-4. 推送到分支 (`git push origin feature/AmazingFeature`)
-5. 打开Pull Request
-
 ## 📜 许可证
 
 本项目采用 [MIT 许可证](LICENSE)

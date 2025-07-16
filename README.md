@@ -89,7 +89,4 @@ under certain conditions; see LICENSE file for details.
    make verify # 包含静态检查、单元测试、E2E验证
    ```
 
-## 赞赏
-微信<img src="https://icdn.binmt.cc/2507/687726666bd7e.png" style="border-radius: 15px;" width="100px">支付宝<img src="https://icdn.binmt.cc/2507/687726666bd7e.png" style="border-radius: 15px;" width="100px">
-
 <h5 align="center">我就站在你面前，你看我几分像从前<h5>

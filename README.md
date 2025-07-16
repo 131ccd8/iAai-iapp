@@ -83,7 +83,6 @@ under certain conditions; see LICENSE file for details.
 ___
 
    ```bash
-   我就站在你面前，你看我几分像从
+    <h5 align="center">我就站在你面前，你看我几分像从前<h5>
    ```
 
-<h5 align="center">我就站在你面前，你看我几分像从前<h5>

@@ -80,9 +80,7 @@ This is free software, and you are welcome to redistribute it
 under certain conditions; see LICENSE file for details.
 ```
 
-___
+__
 
-   ```bash
-    <h5 align="center">我就站在你面前，你看我几分像从前<h5>
-   ```
+<h5 align="center">我就站在你面前，你看我几分像从前<h5>
 

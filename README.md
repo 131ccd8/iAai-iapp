@@ -80,13 +80,10 @@ This is free software, and you are welcome to redistribute it
 under certain conditions; see LICENSE file for details.
 ```
 
-## 🤝 贡献指南
+___
 
-1. 签署CLA协议  
-2. 遵循GitFlow工作流  
-3. 提交前运行：  
    ```bash
-   make verify # 包含静态检查、单元测试、E2E验证
+   我就站在你面前，你看我几分像从
    ```
 
 <h5 align="center">我就站在你面前，你看我几分像从前<h5>

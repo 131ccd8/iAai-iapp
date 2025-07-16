@@ -23,12 +23,6 @@
 | **观测**    | OpenTelemetry + Grafana Mosaïc      |  
 | **CI/CD**   | Argo Workflows + Tekton Pipelines   |
 
-3. **混沌工程平台**  
-| 故障类型       | 注入方式           | 恢复策略         |  
-|--------------|------
----------------|------------|  
-| 网络分区       | iptables规则注入   | 自动健康检查     |  
-| 节点宕机       | VM live migration  | 服务自动迁移     |
 
 ## 其它
 

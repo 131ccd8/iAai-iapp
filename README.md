@@ -54,33 +54,8 @@ def auto_scaling(current_qps):
 | 网络分区       | iptables规则注入   | 自动健康检查     |  
 | 节点宕机       | VM live migration  | 服务自动迁移     |
 
-## 🚀 部署拓扑
+## 其它
 
-```bash
-# 高可用部署方案（3AZ架构）
-helm install sm-system ./charts 
-  --set global.multiAZ.enabled=true 
-  --set etcd.clusterSize=5 
-  --set hpa.metrics=[cpu,memory,qps,latency]
-```
-
-## 📊 性能基准
-
-![QPS Benchmark](https://via.placeholder.com/600x300/2a3d4a/ffffff?text=200k+QPS+<2ms+P99)  
-*实测数据：单集群支撑20万QPS，P99延迟<2ms*
-
-## 📜 开源协议
-
-```legal
-GNU GENERAL PUBLIC LICENSE Version 3
-Copyright (C) 2025 应用服务管理系统项目组
-
-This program comes with ABSOLUTELY NO WARRANTY;
-This is free software, and you are welcome to redistribute it
-under certain conditions; see LICENSE file for details.
-```
-
-__
 
 <h5 align="center">我就站在你面前，你看我几分像从前<h5>
 

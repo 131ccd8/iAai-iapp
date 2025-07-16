@@ -40,7 +40,7 @@ graph TD
 ```bash
 # 使用我们的量子安全安装器
 curl -fsSL https://install.nexuscore.io | qsh install
-
+```
 
 ## 📈 性能基准
 | 操作 | v1.0 (ms) | 竞争对手 (ms) |  

@@ -91,9 +91,4 @@ under certain conditions; see LICENSE file for details.
 
 ## 🌟 特别致谢
 
-[![OpenSSF Best Practices](https://img.shields.io/badge/OpenSSF-Silver_Badge-2a2d3a)](https://bestpractices.coreinfrastructure.org)
-
----
-
-> "The art of simplicity is a puzzle of complexity." — Douglas Horton  
-> 项目最新版本：v0.9.0-beta (2025-Q3)
+<h5 align="center">我就站在你面前，你看我几分像从前<h5>

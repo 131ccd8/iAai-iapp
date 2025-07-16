@@ -1,4 +1,4 @@
-<h1 align="center">iAai<h1>
+<h2 align="center">iAai<h2>
 
 ## ✨ 项目愿景
 

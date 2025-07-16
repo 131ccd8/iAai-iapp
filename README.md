@@ -1,7 +1,11 @@
+<center>
+
 # 应用服务管理系统
 
 ![System Architecture](https://via.placeholder.com/800x400/2a2d3a/ffffff?text=Advanced+Service+Management)  
 *现代微服务架构示意图*
+
+</center>
 
 ## ✨ 项目愿景
 

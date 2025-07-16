@@ -49,7 +49,7 @@ curl -fsSL https://install.nexuscore.io | qsh install
 | 安全扫描 | 56 | 392 |  
 | 依赖解析 | 12 | 87 |  
 
-
+--
 ## 📜 开源协议
 本项目采用 **GPL3.0** 开源许可。
 <h5 align="center">"我就站在你面前，你看我几分像从前"<h5>

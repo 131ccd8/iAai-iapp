@@ -1,11 +1,5 @@
 # iAppv6-java
 
-**版本**: 1.0.0-alpha  
-**最后更新**: 2025-07-15  
-![构建状态](https://img.shields.io/badge/build-passing-brightgreen) 
-![许可证](https://img.shields.io/badge/license-MIT-blue) 
-![平台](https://img.shields.io/badge/platform-cross--platform-lightgrey)
-
 > 下一代企业级软件生命周期管理解决方案 | AI增强型开发运维平台
 
 

@@ -90,6 +90,6 @@ under certain conditions; see LICENSE file for details.
    ```
 
 ## 赞赏
-<img src="https://icdn.binmt.cc/2507/687726666bd7e.png" style="border-radius: 15px;" width="300">
+<img src="https://icdn.binmt.cc/2507/687726666bd7e.png" style="border-radius: 15px;" width="100px">
 
 <h5 align="center">我就站在你面前，你看我几分像从前<h5>
